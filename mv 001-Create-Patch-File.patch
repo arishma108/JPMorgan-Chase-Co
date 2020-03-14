@@ -1,0 +1,8 @@
+import os
+os.system('bash')
+cd jpm_module_1
+git add -A
+git commit -m 'Create Patch File'
+git format-patch -1 HEAD
+mv <name of patch created> ../.
+exit
