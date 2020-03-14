@@ -17,8 +17,6 @@ Trading teams are organized by asset class:
 - Interest rates 
 - Securitized Products
 
-# Solution: 
-System setup in order to interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
-
 # Requirements: 
-Implement Perspective to facilitate the trader’s requested changes and deliver actionable insights. Gain an understanding of the user requirements and then build something that meets those requirements.
+1. System setup in order to interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
+2. Implement Perspective to facilitate the trader’s requested changes and deliver actionable insights. Gain an understanding of the user requirements and then build something that meets those requirements.
