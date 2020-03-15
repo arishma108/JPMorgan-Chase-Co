@@ -119,9 +119,9 @@ index af2bf26..8f139cf 100644
 +      self.assertEqual(getDataPoint(quote),(quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price']+quote['top_ask']['price'])/2))
 +
 +
- 
- 
+  
    """ ------------ Add more unit tests ------------ """
 -- 
 2.11.0
+
 
