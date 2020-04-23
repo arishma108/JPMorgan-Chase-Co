@@ -1,0 +1,3 @@
+Interface with a stock price data feed and set up system for analysis of the data
+
+Aim: JPMC want to process the data feed of stock A and stock B’s price to enable them to analyse when trading for the stock should occur.
