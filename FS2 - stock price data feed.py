@@ -1,6 +1,6 @@
 From 359ec3f820b526c980de52d0396cd7093d5380cf Mon Sep 17 00:00:00 2001
-From: Joe Ferrer <joe@insidesherpa.com>
-Date: Wed, 16 Oct 2019 13:39:08 +0800
+From: Arishma Persadh <arishma.persadh@gmail.com>
+Date: Tue, 4 July 2020 11:33:07 +0530
 Subject: [PATCH] Make model solution
 
 ---
