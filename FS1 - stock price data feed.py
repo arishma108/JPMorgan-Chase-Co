@@ -1,3 +1,13 @@
+From 7f02102ccb465bc13fae70218065d3faabeb8fae Mon Sep 17 00:00:00 2001
+From: Arishma Persadh <arishma.persadh@gmail.com>
+Date: Tue, 4 July 2020 10:08:13 +0530
+Subject: [PATCH] Create patch file
+
+ ---
+ client3.py     | 12 ++++++++----
+ client_test.py |  7 +++++--
+ 2 files changed, 13 insertions(+), 6 deletions(-)
+
 diff --git a/client.py b/client.py
 index 40badcd..e8b44b1 100644
 --- a/client.py
