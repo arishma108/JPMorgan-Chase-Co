@@ -1,6 +1,3 @@
-<img align="left" alt="SVG" src="https://github.com/arishma108/JPMorgan-Chase-Co/blob/master/J_P_Morgan_Chase.svg?raw=true" width="200" height="200" />
-
-!
 Data visualization and analysis in real time.
 
 # Brief: 
