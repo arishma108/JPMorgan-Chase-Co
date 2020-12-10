@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <img width="700" height="88" src="https://github.com/arishma108/JPMorgan-Chase-Co/blob/master/J_P_Morgan_Chase.svg">
 </p>
 Data visualization and analysis in real time.
